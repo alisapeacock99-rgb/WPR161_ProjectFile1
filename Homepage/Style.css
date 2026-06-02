@@ -1,0 +1,189 @@
+/* Homepage - Stylesheet */
+
+/* id from <body> - body */
+#body {
+    margin: 0;
+    padding: 0;
+    font-family: 'dosis', sans-serif;
+}
+
+
+/* id from <section> - title */
+#title {
+    text-align: center;
+    font-size: 300%;
+    font-weight: 600;
+    background-color: rgb(57, 143, 140);
+    padding: 0.3em 0em;
+}
+
+/* id from <nav> - nav */
+#nav {
+    text-align: center;
+    font-weight: 500;
+}
+
+/* class from <li> - nlist */
+.nlist {
+    display: inline-block;
+    padding: 0em 0.3em;
+    width: 20%;
+}
+
+/* class from <a href> - nlink */
+.nlink {
+    color: rgb(49, 124, 121);
+    text-decoration: none;
+    padding: 0.5em 0.5em;
+    width: 20%;
+}
+
+/* class from <a href> - nlink */
+.nlink:hover {
+    background-color: rgba(78, 176, 173, 0.493);
+}
+
+/* class from <hr> - hrline1 */
+.hrline1 {
+    padding: 0.2em 0em;
+    background-color: rgb(57, 143, 140);
+}
+
+/* class from <hr> - hrline2 */
+.hrline2{
+    padding: 0.8em 0em;
+    background-color: rgb(57, 143, 140);
+}
+
+/* class from <div> - subtitle */
+.subtitle{
+    text-align: center;
+    font-size: 200%;
+    font-weight: 500;
+}
+
+/* class from <div> - grid1 */
+.grid1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 0em 2em;
+    margin: 0em 1em;
+}
+
+/* imgage */
+img{
+    width: 100%; 
+}
+
+/* class from <img> - bimg */
+.bimg{
+   width: 200px;
+   display: block;  
+   margin-left: auto; 
+   margin-right: auto;
+   margin-bottom: 0;
+}
+
+/* class from <img> - bimg */
+.bimg:hover{
+    width: 78%;
+}
+
+/* Span */
+span{
+    font-size: 120%;
+    font-weight: 500;
+}
+
+/* class from <section> - con2 */
+.con2{    
+    margin: 0.8em 25em;
+    background-color: rgb(57, 143, 140);
+}
+
+/* class from <div> - minfo */
+.minfo{
+    text-align: center;
+    font-size: 200%;
+    font-weight: 600;
+    background-color: rgba(255, 255, 255, 0.49);
+    padding: 0.3em 0em;
+}
+
+
+/* class from <button> - btn */
+.btn{
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+    border-bottom: 0.2em solid rgba(255, 255, 255, 0.702); 
+    font-size: 130%; 
+    font-weight: 400;  
+}
+
+/* class from <button> - btn */
+.btn:hover{
+    background-color: rgba(255, 255, 255, 0.377);
+}
+
+
+/* class from <articel> - binfo */
+.binfo{
+    padding: 1em;
+}
+
+/* id from <p> - para1-para5 */
+
+#para1{
+    display: none;
+    width: 100%;    
+}
+
+#para2 {
+    display: none;
+    width: 100%;
+}
+
+#para3 {
+    display: none;
+    width: 100%;
+}
+
+#para4 {
+    display: none;
+    width: 100%;
+}
+
+#para5 {
+    display: none;
+    width: 100%;
+}
+
+/* class from <a href> - link */
+.link{
+    text-decoration: none;
+    color: rgb(112, 225, 221);
+}
+
+/* id from <footer> - con3 */
+#con3{
+    text-align: center;
+    font-size: 120%;
+    font-weight: 600;
+    background-color: rgb(57, 143, 140);
+    padding: 0.3em 0em;
+    color: black;
+}
+
+/* id from <a href> - nlink1 */
+#nlink1{
+    color: rgb(112, 225, 221);
+   text-decoration: none;
+}
+
+
+
+
+
+
+
+

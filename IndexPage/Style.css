@@ -1,0 +1,79 @@
+/* Indexpage - Stylesheet */
+
+/* id from <body> - body1 */
+#body1 {
+    margin: 0;
+    padding: 0;
+    font-family: 'dosis', sans-serif;
+}
+
+/* id from <header> - header1 */
+#header1 {
+    margin: 13% 0%;
+    padding-top: 2em;
+    padding-bottom: 2.5em;
+    background-image: url(./Images/BackPic1.jpg);
+    color: black;
+    font-weight: bold;
+    text-align: center;
+   
+}
+
+/* id from <p> - para1 */
+#para1 {
+    padding-left: 26em;
+    padding-right: 26em;
+    font-weight: 500;
+}
+
+/* id from <button> - btn */
+#btn {
+    padding: 0.8em;
+    background-color: rgba(0, 0, 0, 0);
+    transition: 0.5s;
+    width: 15%;
+    border-style: Outset;
+    border-color: rgb(48, 120, 117);
+    border-radius: 1.2em;
+    border-width: 0.3em;
+}
+
+
+/* id from <button> - btn */
+#btn:hover {
+    background-color: rgba(0, 0, 0, 0);
+    color: black;
+    cursor: pointer;
+    width: 20%;
+}
+
+/* id from <a href> - link1 */
+#link1 {
+    color: black;
+    font-family: 'dosis', sans-serif;
+    text-decoration: none;
+}
+
+/* class from <button> - btn1 */
+.btn1 {
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0);
+    transition: 0.5s;
+    width: 4%;
+    height: 4%;
+    border-color: rgba(0, 0, 0, 0);
+}
+
+/* class from <button> - btn1 */
+.btn1:hover {
+    cursor: pointer;
+    width: 5%;
+    height: 5%;
+}
+
+/* class from <img> - pic */
+.pic {
+    max-width: 100%;
+    border-radius: 1.2em;
+
+}

@@ -10,31 +10,31 @@ The project was developed using **HTML, CSS, and JavaScript** and demonstrates c
 
 ## Features
 
-### 📚 Book Exploration
+### Book Exploration
 
 * Browse a collection of books from different genres.
 * Visually appealing book displays and layouts.
 * Easy navigation through featured content.
 
-### 🏠 Homepage
+### Homepage
 
 * Welcoming landing page introducing Book Empire.
 * Navigation menu linking to all major sections.
 * Attractive design with images and book showcases.
 
-### 📄 Terms of Service
+### Terms of Service
 
 * Dedicated Terms of Service page outlining website usage policies.
 * Users can choose to accept or decline the agreement.
 * Redirection functionality based on user selection.
 
-### ❓ Frequently Asked Questions (FAQ)
+### Frequently Asked Questions (FAQ)
 
 * Interactive FAQ section.
 * Expandable and collapsible questions using JavaScript.
 * Provides answers to common user inquiries.
 
-### 🎨 Modern User Interface
+### Modern User Interface
 
 * Custom CSS styling.
 * Responsive page layouts.
@@ -144,6 +144,6 @@ This project demonstrates:
 ---
 
 ## Author
-Alisa Peacock 
+###Alisa Peacock 
 **Book Empire – WPR161 Web Development Project**
 A front-end web application developed to showcase web design, user interaction, navigation systems, and modern website development practices using HTML, CSS, and JavaScript.

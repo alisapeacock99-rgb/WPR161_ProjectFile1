@@ -144,6 +144,6 @@ This project demonstrates:
 ---
 
 ## Author
-###Alisa Peacock 
-**Book Empire – WPR161 Web Development Project**
+-> Alisa Peacock 
+*Book Empire – WPR161 Web Development Project
 A front-end web application developed to showcase web design, user interaction, navigation systems, and modern website development practices using HTML, CSS, and JavaScript.
